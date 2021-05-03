@@ -1,3 +1,6 @@
 [submodule "crud_server"]
 	path = crud_server
 	url = https://github.com/Magzister/crud_server
+[submodule "crud_desktop"]
+	path = crud_desktop
+	url = https://github.com/Magzister/crud_desktop
