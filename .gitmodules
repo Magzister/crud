@@ -4,3 +4,6 @@
 [submodule "crud_desktop"]
 	path = crud_desktop
 	url = https://github.com/Magzister/crud_desktop
+[submodule "crud_mobile"]
+	path = crud_mobile
+	url = https://github.com/Magzister/crud_mobile
